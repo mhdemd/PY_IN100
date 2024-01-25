@@ -11,7 +11,7 @@
 **محتوا:**
 - طول ویدیوها: کمتر از ۱۰۰ ثانیه
 - منبع مقدماتی: کتاب "Learning Python" نوشته Mark Lutz
-- کانال یوتیوب: [Mehdi Emadi](https://www.youtube.com/mehdi-emadi)
+- کانال یوتیوب: [Mehdi Emadi](https://www.youtube.com/@mehdi-emadi)
 - GitHub: [github.com/mhdemd](https://github.com/mhdemd)
 
 **پایتون، آموزش_پایتون، برنامه_نویسی، آموزش_برنامه_نویسی، پایتون_مقدماتی، پایتون_پیشرفته، پایتون_نویسی، یادگیری_ماشین، طراحی_سایت، پایتون_در_۱۰۰_ثانیه، رادین_افزار، python، learningpython، pythoncourse**
