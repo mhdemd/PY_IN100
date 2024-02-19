@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-part 3 - Dynamic
+part 3 - Structural Dynamics
 .Python
 build/
 develop-eggs/
