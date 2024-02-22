@@ -1,7 +1,11 @@
 # Initialize empty person information list
 person_info = ["", "", 0]
+# person_info = []
 
 # Get person information
+# name = input("Enter your first name: ")
+# person_info.append(name)
+
 person_info[0] = input("Enter your first name: ")
 person_info[1] = input("Enter your last name: ")
 
@@ -22,26 +26,25 @@ print("Last Name: " + person_info[1])
 print("Age: " + str(person_info[2]))
 
 # Menu for updating information
-option = 0
-if option not in [1, 2, 3]:
-    print("\nOptions for modification:")
-    print("1. Update first name")
-    print("2. Update last name")
-    print("3. Update age")
 
-    # Get a valid option
-    option_input = input("Enter your choice (1, 2, or 3): ")
-    if option_input.isdigit() and int(option_input) in [1, 2, 3]:
-        option = int(option_input)
-    else:
-        print("Invalid option. Please enter a number between 1 and 3.")
+print("\nOptions for modification:")
+print("1. Update first name")
+print("2. Update last name")
+print("3. Update age")
+
+# Get a valid option
+option_input = input("Enter your choice (1, 2, or 3): ")
+if option_input.isdigit() and int(option_input) in [1, 2, 3]:
+    option = int(option_input)
+else:
+    print("Invalid option. Please enter a number between 1 and 3.")
 
 # Update information based on the selected option
 if option == 1:
     person_info[0] = input("Enter the new first name: ")
 elif option == 2:
     person_info[1] = input("Enter the new last name: ")
-elif option == 3 and valid_age:
+elif option == 3:
     # Get a valid new age
     new_age_input = input("Enter the new age: ")
     if new_age_input.isdigit():
