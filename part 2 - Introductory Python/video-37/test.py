@@ -1,4 +1,4 @@
-my_dict = {1: "apple", 2:"apple"}
+my_dict = {1:"apple", 2:"apple"}
 # key => int, float, st, ...
 # key =!> list, dict
 # value => all
