@@ -1,9 +1,14 @@
-my_list = [1, 3, 6.54, 5]
+my_tuple = ("A","B","C","D","E","F","G")
 
-my_tuple1 = (1, "Hello", 6.54) 
-my_tuple2 = ([1, 2, 3], (1, 2, 3))
 
-# my_tuple = tuple(my_list)
-# print(my_tuple1)
-# print(my_tuple2)
-# print(my_tuple1 + my_tuple2)
+# print(my_tuple[2:6:1])
+# print(my_tuple[5:1:-1])
+
+# print(my_tuple[2:6:2])
+# print(my_tuple[5:1:-2])
+
+# print(my_tuple[  :  :  ])
+# print(my_tuple[  :5:  ])
+# print(my_tuple[2:  :  ])
+print(my_tuple[  :  :2])
+print(my_tuple[  :  :-2])
