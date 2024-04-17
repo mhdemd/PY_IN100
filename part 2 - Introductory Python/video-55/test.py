@@ -2,13 +2,26 @@ phone_book = {
     "+9891200000000" : "Susan",
     "+9891200000001" : "Saman",
     "+9891200000002" : "Sara",
+    "+9891200000003" : "Kian",
+    "+9891200000004" : "Kiana",
+    "+9891200000005" : "Kamran",
 }
 
-# print(phone_book.items())
+# for number, name in phone_book.items():
+#     if name.startswith("S"):
+#         print(f"Hi {name}!")
 
-# for phone_number, name in phone_book.items():
-#     print(f"Happy New Year, {name}!")
+# for number, name in phone_book.items():
+#     if name.endswith("a"):
+#         # continue
+#         break
 
-for phone_number in phone_book:
-    if phone_number == "+9891200000001":
-        print(phone_book[phone_number])
+#     print(f"Hi {name}!")
+
+for number, name in phone_book.items():
+    pass
+# if
+# for
+#     pass
+# while
+
