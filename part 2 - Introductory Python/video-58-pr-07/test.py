@@ -2,7 +2,12 @@
 shopping_cart = {}
 
 # Simulate an online store with available products and their prices
-store_products = {'laptop': 1000, 'smartphone': 500, 'headphones': 100, 'keyboard': 50}
+store_products = {
+    'laptop': 1000,
+    'smartphone': 500,
+    'headphones': 100,
+    'keyboard': 50
+}
 
 while True:
     print("\n====================")
