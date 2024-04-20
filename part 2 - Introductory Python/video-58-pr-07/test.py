@@ -12,13 +12,11 @@ store_products = {
 while True:
     print("\n====================")
     print("Available Products:")
-    
     for index, (product, price) in enumerate(store_products.items(), 1):
         print(f"{index}. {product.capitalize()}: ${price}")
 
     print("====================")
     print("Shopping Cart:")
-    
     if not shopping_cart:
         print("Your shopping cart is empty.")
     else:
