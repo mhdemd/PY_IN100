@@ -127,7 +127,12 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-part3-StructuralDynamics/venv
+/part3-StructuralDynamics/venv/
+
+
+!/part3-StructuralDynamics/
+
+
 
 # Spyder project settings
 .spyderproject
