@@ -30,7 +30,7 @@
 پس از باز شدن ترمینال، دستور زیر را وارد کنید تا پروژه را از گیت‌هاب دانلود کنید:
 
 ```bash
-git clone https://github.com/mhdemd/Tools-MultiLinePersianText.git
+git clone https://github.com/mhdemd/PY_IN100.git
 ```
 ---
 
@@ -60,4 +60,4 @@ This series of Python tutorials starts with the basics and installation of Pytho
 To download this project from GitHub, you can use the `git clone` command. Simply enter the following command in your terminal:
 
 ```bash
-git clone https://github.com/mhdemd/Tools-MultiLinePersianText.git
+git clone https://github.com/mhdemd/PY_IN100.git
