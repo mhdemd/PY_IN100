@@ -17,6 +17,12 @@
 **پایتون، آموزش_پایتون، برنامه_نویسی، آموزش_برنامه_نویسی، پایتون_مقدماتی، پایتون_پیشرفته، پایتون_نویسی، یادگیری_ماشین، طراحی_سایت، پایتون_در_۱۰۰_ثانیه، رادین_افزار، python، learningpython، pythoncourse**
 
 **در کانال اینستاگرام ما را دنبال کنید: [@radinafzar_tech](https://www.instagram.com/radinafzar_tech)**
+## نحوه دانلود از گیت‌هاب
+
+برای دانلود این پروژه از گیت‌هاب، می‌توانید از دستور `git clone` استفاده کنید. دستور زیر را در ترمینال خود وارد کنید:
+
+```bash
+git clone https://github.com/mhdemd/Tools-MultiLinePersianText.git
 
 ---
 
@@ -39,3 +45,11 @@ This series of Python tutorials starts with the basics and installation of Pytho
 **python, pythonlearning, programming, programmingtutorial, basicpython, advancedpython, pythonprogramming, machinelearning, website_design, python_in_100_seconds, radinafzar, learningpython, pythoncourse**
 
 **Follow us on Instagram: [@radinafzar_tech](https://www.instagram.com/radinafzar_tech)**
+
+
+## How to Download from GitHub
+
+To download this project from GitHub, you can use the `git clone` command. Simply enter the following command in your terminal:
+
+```bash
+git clone https://github.com/mhdemd/Tools-MultiLinePersianText.git
