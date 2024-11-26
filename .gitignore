@@ -7,7 +7,6 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-part 3 - Structural Dynamics
 .Python
 build/
 develop-eggs/
@@ -128,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+part3-StructuralDynamics/venv
 
 # Spyder project settings
 .spyderproject
